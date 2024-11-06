@@ -2,8 +2,8 @@ import neo4j
 import pyvis
 from neo4j import GraphDatabase
 
-URI = 'neo4j+s://638d76f9.databases.neo4j.io'
-AUTH = ('neo4j', 'rptDnOv6HftDcZfjcGlEUJ0gQTGeNU6McTWoGq--bwM')
+URI = '<ADD YOUT TOKEN>'
+AUTH = ('neo4j', '<ADD YOUR TOKEN>')
 
 entity_list = [
 'PERSON',
