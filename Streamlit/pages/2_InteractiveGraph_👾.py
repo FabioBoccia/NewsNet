@@ -15,7 +15,7 @@ st.set_page_config(
     layout='wide'
 )
 
-mongo_uri = 'mongodb+srv://simdotolo:bdeluglio2024@cluster0.eajzwct.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'
+mongo_uri = 'mongodb+srv:<ADD YOUR TOKEN>'
 
 def get_mongo_client(mongo_uri):
     """Establish connection to the MongoDB."""
